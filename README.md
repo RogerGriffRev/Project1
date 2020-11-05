@@ -1,3 +1,1 @@
-# Project1
-
-#Wikipedia analytics
+# Wikipedia Analytics Project
